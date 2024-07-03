@@ -1,4 +1,42 @@
-html {
-  height: 100%;
-  width: 100%;
+body {
+  background: linear-gradient(#4dce4b, #d4f57a);
+}
+
+h1  {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+}
+P {
+  font-family: 'Candara', 'Arial Narrow';
+    font-size: 20px;
+    text-align: center;
+    color: #292929;
+    
+}
+.oi {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 120px;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 2px 2x #000000;
+}
+
+.imagem {
+  float: left;
+  width: 25%;
+}
+
+#po {
+  margin-bottom: 130px;
+}
+
+#hg {
+margin-top: 130px;
+}
+
+li {
+  margin-top: 20px;
 }
